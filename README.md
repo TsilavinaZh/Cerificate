@@ -13,5 +13,5 @@ just a simple programmer.Today,i decide to share my certificat in Github because
 - Ruby
 - Rust
 
-# don't forgret to follow my account
+## don't forgret to follow my account
 Bisou Jiaby
